@@ -1,0 +1,7 @@
+echo "# ISIP" >> README.md 
+git init 
+git add README.md 
+git commit -m "first commit" 
+git branch -M main 
+git remote add origin https://github.com/Jetfiree/ISIP.git
+ git push - ты главный
