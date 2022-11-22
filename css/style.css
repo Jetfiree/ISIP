@@ -1,0 +1,74 @@
+body {
+    font-size: 1.11vw;
+    margin: 0px;
+    padding: 0px;
+    background-color: rgb(28,36,45);
+}
+.section {
+    padding-left: 5em;
+    padding-right: 5em;
+    background-color: rgb(28,36,45);
+}
+.container {
+    width: 100%;
+    display: flex;
+    max-width: 1920px;
+}
+.card {
+    height: 60px;
+    width: 140px;
+    display: flex;
+    justify-content: start;
+    align-items: flex-end;
+    padding: 16px;
+    font-size: 20px;
+}
+a {
+    overflow: hidden;
+    text-decoration: none;
+}
+.text {
+    color: white;
+    font-size: 100%;
+}
+.abbadon {
+    background-image: url(../img/abaddon.jpg);
+    background-size: cover;
+}
+.viper {
+    background-image: url(../img/viper.jpg);
+    background-size: cover;
+}
+.juggernaut {
+    background-image: url(../img/juggernaut.jpg);
+    background-size: cover;
+}
+.razor {
+    background-image: url(../img/razor.jpg);
+    background-size: cover;
+}
+.pudge {
+    background-image: url(../img/pudge.jpg);
+    background-size: cover;
+}
+.slark {
+    background-image: url(../img/slark.jpg);
+    background-size: cover;
+}
+.tiny {
+    background-image: url(../img/tiny.jpg);
+    background-size: cover;
+}
+.header {
+    background-color: rgb(36,47,57);
+    width: 100px;
+    font-size: 22px;
+}
+.txt {
+    color: rgb(0, 0, 0);
+}
+.txtj {
+    font-size: 180%;
+}
+
+
